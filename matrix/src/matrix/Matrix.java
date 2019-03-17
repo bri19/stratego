@@ -45,6 +45,7 @@ public class Matrix extends JFrame implements ActionListener {
 		this.setSize(1420, 1000);
 		//Permite que la ventana se coloque al centro de la pantalla
 		this.setLocationRelativeTo(null);
+                //hola bri
 
 	}
 
